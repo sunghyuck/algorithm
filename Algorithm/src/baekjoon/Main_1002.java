@@ -1,8 +1,9 @@
+package baekjoon;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 // 백준 1002
-public class Main {
+public class Main_1002 {
 
 	public static void main(String[] args) throws Exception {
 
